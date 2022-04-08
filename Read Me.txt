@@ -1,0 +1,9 @@
+apk version: 0.1
+bundle version code: 1
+Package id: com.clicktrick.gme
+
+
+key store: click_trick.keystore
+password: clickk
+alias: clickk
+password: clickk
